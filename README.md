@@ -1,4 +1,4 @@
-SimpleTorch
+BasicTorch
 ===========
 
 Ultra simple android flashlight
